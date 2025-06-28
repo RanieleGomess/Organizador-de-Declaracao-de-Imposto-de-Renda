@@ -5,3 +5,4 @@ Sendo assim, o usuário pode controlar suas entradas de maneira eficiente e vali
 ![part2](https://github.com/user-attachments/assets/e9b0065b-b073-4d09-95bc-4f035a96c608)
 ![part3](https://github.com/user-attachments/assets/243aa244-a75e-40f8-86c4-b6bc348e0721)
 
+
